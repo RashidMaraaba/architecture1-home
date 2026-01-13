@@ -1,0 +1,1 @@
+A low-level MIPS Assembly program for efficient integer dataset processing. It categorizes 15 inputs into memory-aligned arrays based on sign and parity, implements a Descending Selection Sort algorithm, and performs statistical analysis including average, max, and min calculations.
